@@ -1,4 +1,4 @@
-# 🚀 Live Lab #56 – Hands-On Databricks: Build Your First Churn Prediction Model
+# Live Lab #56 – Hands-On Databricks: Build Your First Churn Prediction Model
 
 This repository contains all materials for **Live Lab #56**, a hands-on, beginner-friendly workshop where we build an **end-to-end customer churn prediction model on Databricks**.
 
